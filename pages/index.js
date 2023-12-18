@@ -1,7 +1,3 @@
-const Home = ()=>{
-  return (
-    <h1>Home page</h1>
-  )
-}
+import Home from "./home";
 
-export default Home
+export default Home;
