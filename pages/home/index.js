@@ -12,7 +12,11 @@ export default function Home() {
           <title>icloud|Home</title>
         </Head>
         <main>
-          
+          <div>
+            <h1>
+              lets bigin to develop
+            </h1>
+          </div>
         </main>
       </div>
     </Layout>
