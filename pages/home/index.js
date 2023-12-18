@@ -12,11 +12,7 @@ export default function Home() {
           <title>icloud|Home</title>
         </Head>
         <main>
-          <div>
-            <h1>welcome to icloud</h1>
-            <p>Count: {count}</p> {/* Display the count from the context */}
-            <button onClick={incrementCount}>Increment</button> {/* Call the function from the context */}
-          </div>
+          
         </main>
       </div>
     </Layout>
